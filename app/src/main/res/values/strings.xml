@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">CbooK</string>
+    <string name="et_hint_search">Search</string>
+    <string name="button_text_search">Execute</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="about_app_description">CbooK is a free and open source android application for downloading unlimited e-books for free.
+        If you are looking for the source code <a href="">Click here</a>
+    </string>
+
+    <string name="about_author_description">
+        My name is Carlz karthik, author,developer(whatever you call) of this app.
+        This is my first android app.\nAnd am very happy to update you with my upcoming ones.
+        All you have to do is keep in touch with me on\n<a href="https://www.instagram.com/carlzkarthik/?hl=en">Instagram</a>
+        <a href="https://github.com/carlzkarthik">GitHub</a>\nThank you…
+    </string>
+
+    <string name="main_text">
+        Search for any Ebooks\nUsing\nBook name,\nAuthor name,\nOr\nISBN
+    </string>
+    <string name="about_developer_text">About Developer</string>
+    <string name="app_version">1.0.0</string>
+    <string name="search_book">Search for any Book</string>
+    <string name="pref_key_theme">pref_key_theme</string>
+    <string name="pref_theme_category">Theme Setting</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="please_provide_book_name">Please provide book name</string>
+    <string name="cancel">Cancel</string>
+    <string name="yes">Yes</string>
+    <string name="exit_app">Do you want to exit the app...</string>
+
+</resources>
